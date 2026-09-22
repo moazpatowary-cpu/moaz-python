@@ -7,5 +7,3 @@ for row in number_pad :
         print(columnn, end=" ")
     print()
     print("hello")
-    
-
