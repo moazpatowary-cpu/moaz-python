@@ -10,7 +10,7 @@ cart = []
 total = 0
 print("----welcome!----")
 for key,value in menu.items() :
-    print(f"{key:10} : ${value:.2f}$ ")
+    print(f"{key:10} : {value:.2f}taka ")
     print("-------------------")
 while True: 
         item = input("what would you like to order?(press q to quit): ").lower()
